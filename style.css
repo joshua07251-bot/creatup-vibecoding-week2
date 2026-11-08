@@ -228,3 +228,4 @@ footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);f
 @media(max-width:430px){.planner .controls{display:block}.planner .controls>.card{margin-bottom:10px}.icon-btn{font-size:.75rem}.logo{width:28px;height:28px}.brand{gap:6px}.bar{height:auto;min-height:58px;flex-wrap:wrap;padding:8px 0}.tools{margin-left:auto}.snapshot-grid .btnrow{flex-wrap:wrap}}
 [hidden]{display:none!important}
 .intro-map{background-color:var(--bg);color:var(--ink)}.intro-map>div{color:var(--ink)}
+.bento .hero .mini{color:var(--ink)}
